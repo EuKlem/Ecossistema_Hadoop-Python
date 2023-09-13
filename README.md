@@ -1,2 +1,3 @@
 # Ecossistema_Hadoop_Ferramentas_Python
-Programas utilizando o Ecossistema Hadoop com Python usando o método Counter.
+Estudando e praticando o Ecossistema Hadoop com python.
+Aprensento alguns exercícios que finalizei pela da minha faculdade.
